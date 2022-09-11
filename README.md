@@ -5,6 +5,8 @@ This project was created for study case.
 ## About project
 This project is a simple weather app that shows the weather conditions at certain times of the day.
 
+Demo: https://weather-app-react-company-studycase.vercel.app/
+
 ![Alt text](./assets/weather.png "Locations")
 
 ## Special Usage
